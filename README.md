@@ -1,5 +1,5 @@
 # CSE-282-Data-Structures-and-Algorithms-
- GitHub Repository: CSE 282 Sessional - Data Structures and Algorithms
+
 Welcome to the repository for CSE 282 Sessional, focusing on Data Structures and Algorithms. This repository contains all the practical sessional codes developed during the course. The aim of this course is to provide a comprehensive understanding of various data structures and algorithms, their implementation, and their applications in solving real-world problems.
 
 Contents
